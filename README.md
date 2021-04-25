@@ -18,7 +18,7 @@ The purpose of this analysis is to perform credit risk analysis for the availabl
 ## Results
  
 
-####Naive Random Oversampling
+#### Naive Random Oversampling
 
 
 ![](images/ss1.png)
